@@ -1,0 +1,170 @@
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\appsettings.json
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\Proyecto.exe
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\Proyecto.deps.json
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\Proyecto.runtimeconfig.json
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\Proyecto.runtimeconfig.dev.json
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\Proyecto.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\ref\Proyecto.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\Proyecto.pdb
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\Proyecto.Views.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\Proyecto.Views.pdb
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\obj\Debug\net5.0\Proyecto.csproj.AssemblyReference.cache
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\obj\Debug\net5.0\Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\obj\Debug\net5.0\Proyecto.AssemblyInfoInputs.cache
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\obj\Debug\net5.0\Proyecto.AssemblyInfo.cs
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\obj\Debug\net5.0\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\obj\Debug\net5.0\Proyecto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\obj\Debug\net5.0\Proyecto.RazorAssemblyInfo.cache
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\obj\Debug\net5.0\Proyecto.RazorAssemblyInfo.cs
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\obj\Debug\net5.0\staticwebassets\Proyecto.StaticWebAssets.Manifest.cache
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\obj\Debug\net5.0\staticwebassets\Proyecto.StaticWebAssets.xml
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\obj\Debug\net5.0\scopedcss\bundle\Proyecto.styles.css
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\obj\Debug\net5.0\Proyecto.TagHelpers.input.cache
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\obj\Debug\net5.0\Proyecto.TagHelpers.output.cache
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\obj\Debug\net5.0\Proyecto.RazorCoreGenerate.cache
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\obj\Debug\net5.0\Proyecto.RazorTargetAssemblyInfo.cache
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\obj\Debug\net5.0\Proyecto.RazorTargetAssemblyInfo.cs
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\obj\Debug\net5.0\Proyecto.Views.pdb
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\obj\Debug\net5.0\Proyecto.csproj.CopyComplete
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\obj\Debug\net5.0\Proyecto.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\obj\Debug\net5.0\ref\Proyecto.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\obj\Debug\net5.0\Proyecto.pdb
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\obj\Debug\net5.0\Proyecto.genruntimeconfig.cache
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\obj\Debug\net5.0\Razor\Views\Tablas\Device.cshtml.g.cs
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\bin\Debug\net5.0\libman.json
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\obj\Debug\net5.0\Razor\Views\Tablas\agregar.cshtml.g.cs
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\obj\Debug\net5.0\Razor\Views\Tablas\CambioContra.cshtml.g.cs
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\obj\Debug\net5.0\Razor\Views\Tablas\editDevice.cshtml.g.cs
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server\Proyecto\Proyecto\obj\Debug\net5.0\Razor\Views\Tablas\monitoreo.cshtml.g.cs
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\appsettings.json
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\libman.json
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\Proyecto.exe
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\Proyecto.deps.json
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\Proyecto.runtimeconfig.json
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\Proyecto.runtimeconfig.dev.json
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\Proyecto.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\ref\Proyecto.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\Proyecto.pdb
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\Proyecto.Views.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\Proyecto.Views.pdb
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\obj\Debug\net5.0\Proyecto.csproj.AssemblyReference.cache
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\obj\Debug\net5.0\Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\obj\Debug\net5.0\Proyecto.AssemblyInfoInputs.cache
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\obj\Debug\net5.0\Proyecto.AssemblyInfo.cs
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\obj\Debug\net5.0\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\obj\Debug\net5.0\Proyecto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\obj\Debug\net5.0\Proyecto.RazorAssemblyInfo.cache
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\obj\Debug\net5.0\Proyecto.RazorAssemblyInfo.cs
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\obj\Debug\net5.0\staticwebassets\Proyecto.StaticWebAssets.Manifest.cache
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\obj\Debug\net5.0\staticwebassets\Proyecto.StaticWebAssets.xml
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\obj\Debug\net5.0\scopedcss\bundle\Proyecto.styles.css
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\obj\Debug\net5.0\Proyecto.TagHelpers.input.cache
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\obj\Debug\net5.0\Proyecto.TagHelpers.output.cache
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\obj\Debug\net5.0\Proyecto.RazorCoreGenerate.cache
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\obj\Debug\net5.0\Razor\Views\Tablas\agregar.cshtml.g.cs
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\obj\Debug\net5.0\Razor\Views\Tablas\CambioContra.cshtml.g.cs
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\obj\Debug\net5.0\Razor\Views\Tablas\Device.cshtml.g.cs
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\obj\Debug\net5.0\Razor\Views\Tablas\editDevice.cshtml.g.cs
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\obj\Debug\net5.0\Razor\Views\Tablas\monitoreo.cshtml.g.cs
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\obj\Debug\net5.0\Proyecto.RazorTargetAssemblyInfo.cache
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\obj\Debug\net5.0\Proyecto.RazorTargetAssemblyInfo.cs
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\obj\Debug\net5.0\Proyecto.Views.pdb
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\obj\Debug\net5.0\Proyecto.csproj.CopyComplete
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\obj\Debug\net5.0\Proyecto.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\obj\Debug\net5.0\ref\Proyecto.dll
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\obj\Debug\net5.0\Proyecto.pdb
+C:\Users\Esteban\OneDrive\Escritorio\2021_2\Programacion Web\proyecto\Client-Server user Hacienda password 123456789\Proyecto\Proyecto\obj\Debug\net5.0\Proyecto.genruntimeconfig.cache

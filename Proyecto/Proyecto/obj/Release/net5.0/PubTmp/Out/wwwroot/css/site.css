@@ -1,0 +1,325 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+/*a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+ Provide sufficient contrast against white background 
+a {
+  color: #0366d6;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+ Sticky footer styles
+-------------------------------------------------- 
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+ Sticky footer styles
+-------------------------------------------------- 
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+   Margin bottom by footer height 
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;  Vertically center the text there 
+}*/
+
+/*Clase cambio de color*/
+.cambioColor {
+    background-color: lightskyblue;
+    color:white !important;
+}
+.colornormal {
+    background-color: white;
+    color: lightskyblue !important;
+}
+
+
+/*CSS ingreso*/
+.login {
+    margin: 10% 25% 10% 0%;
+    border: solid 1px;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 12px;
+    background-color: azure;
+}
+#icontemp {
+    text-align: center;
+    color: red;
+}
+i{
+    font-size: x-large;
+}
+.login>div{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+}
+button{
+    width: 40%;
+    background-color:deepskyblue;
+    border-radius: 6px;
+}
+input{
+    width: 80%;
+}
+
+input:hover {
+    box-shadow: 0 0 3px #57b9fa;
+}
+
+button:hover {
+    box-shadow: 0 0 5px #57b9fa;
+}
+
+@media screen and (max-width: 210px) {
+    .Title{
+        visibility: hidden;
+    }
+    button > div {
+        visibility: hidden;
+    }
+
+    i {
+        visibility: hidden;
+    }
+}
+@media screen and (max-width: 100px) {
+    .login>div{
+        visibility: hidden;
+    }
+    button{
+        visibility: hidden;
+    }
+}
+
+/*Program*/
+
+
+#divMenu {
+    border-right: solid 2px #d8bebb;
+    margin: 0px !important;
+    padding: 0px !important;
+    background-color:white;
+}
+
+#divMenu>i{
+    color:black;
+    font-size:x-large;
+}
+
+.menu {
+    height: 40px;
+    cursor: pointer;
+    border-radius: 5px;
+    color:lightskyblue;
+    border-radius:5px;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+}
+
+#tablas {
+    text-align:initial;
+    width:60%;
+}
+#agregarDevice
+{
+    text-align:initial;
+    cursor:pointer;
+}
+
+@media screen and (max-width: 700px) {
+    #colMenu {
+        display: none !important;
+        /*visibility: hidden;*/
+    }
+}
+
+
+/*Agregar dispositivo*/
+
+.agregar {
+    margin: 5% 25% 10% 5%;
+    border: solid 1px;
+    width: 50%;
+    background-color: azure;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+}
+
+.Title_agre{
+    width:100%;
+    text-align:initial;
+    font-size:xx-large;
+    font-weight:bold;
+    border-bottom: solid 1px;
+    background-color:gainsboro;
+}
+
+.entradas_agregar {
+    margin:0 0 0 15%;
+    width: 70%;
+}
+
+.botones {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.botones>input[type="button"]
+{
+    width:30%;
+    border-radius:3px;
+}
+
+.name > input[type="text"] {
+    width: 70%;
+}
+
+input[type="number"] {
+    width: 25%;
+}
+
+.entrada, .name {
+    display: flex;
+    justify-content: flex-start;
+}
+
+input[type="button"], button{
+    outline:none;
+    color:white;
+    border:none;
+}
+
+#btnOK, #btnOKContra, #btnOKedit {
+    background-color: cornflowerblue;
+}
+#btnCan, #btnCanContra, #btnCanedit {
+    background-color: red;
+}
+/*input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    opacity:1;
+}*/
+@media screen and (max-width: 800px) {
+    .botones > input[type="button"] {
+        width: 60%;
+    }
+    .agregar {
+        width: 90%;
+    }
+    .login {
+        width: 80%;
+    }
+}
+
+/*Contraeña*/
+.entradas_contra {
+    margin: 0 0 0 5%;
+    width: 80%;
+}
+.entradas_contra > div > input[type="password"] {
+    width: 50%;
+}
+.entradas_contra>div {
+    margin: 10px 0 0 0;
+}
+@media screen and (max-width: 520px) {
+    #nameContra {
+        display: none !important;
+    }
+}
+@media screen and (max-width: 350px) {
+    .entradas_contra, .entradas_agregar, .Title_agre {
+        display: none !important;
+    }
+}
+
+/*Monitoreo*/
+.graf {
+    width:100%;
+    height:150px;
+    border:solid 1px;
+}
+.device {
+    font-size:large;
+    font-weight:900;
+    margin:5px 0 0 0;
+}
+
+.temperatura, .rango {
+    font-size: medium;
+    font-weight: 600;
+    margin: 5px 0 5px 0;
+}
+
+.fecha {
+    font-size:x-small;
+    color:lightslategray;
+}
+
+table{
+    width:100%;
+    text-align:center;
+    font-size:small;
+}
+
+thead{
+    background-color: black;
+    color:white;
+    height:40px;
+}
